@@ -1,0 +1,15 @@
+{
+  "title": "Makima Reality",
+  "nodes": [
+    {
+      "location": "Финляндия (Helsinki)",
+      "code": "FI",
+      "link": "vless://00000000-0000-0000-0000-000000000000@1.1.1.1:443?security=reality&sni=google.com&pbk=fakekey"
+    },
+    {
+      "location": "Германия (Frankfurt)",
+      "code": "DE",
+      "link": "vless://11111111-1111-1111-1111-111111111111@8.8.8.8:443?security=reality&sni=yahoo.com&pbk=fakekey"
+    }
+  ]
+}
